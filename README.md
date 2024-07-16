@@ -37,4 +37,4 @@ python manage.py runserver
 
 MIT
 
-**Free Software, Hell Yeah!**
+**Free Software, Hell Meet Sarvaiya!**
